@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+#caja1{
+    background-color: orange;
+    padding: 30px 10px 20px 10px; /* padding en los cuatro lados*/
+    width: 400px;
+    margin: 20px; /*nos sirve para separar las cajas*/
+    border: 10px; /*el border por si solo no tiene efecto en primera instancia, debe estar acompñado de otro border...*/
+    border-style: dashed;
+}
+.caja2{
+    background-color: blue;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    width: 300px;
+    margin: 20px;
+    border: 8px;
+    border-style: dotted;
+    border-radius: 30px;
+    border-color: brown;
+}
